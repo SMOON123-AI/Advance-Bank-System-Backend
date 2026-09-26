@@ -171,7 +171,7 @@ Backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bank-transaction-backend.git
+git clone https://github.com/SMOON123-AI/Advance-Bank-System-Backend.git
 ```
 
 ### 2. Navigate into the project
