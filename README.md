@@ -316,7 +316,7 @@ A real banking application would require additional security, compliance, auditi
 
 ## 👨‍💻 Author
 
-**Your Name**
+**SHAMOON HOSSAIN**
 
 B.Tech Computer Science & Engineering
 
@@ -336,7 +336,3 @@ B.Tech Computer Science & Engineering
 - Advanced logging and monitoring
 
 ---
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
