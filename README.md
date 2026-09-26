@@ -20,7 +20,7 @@ The system provides user authentication, account management, ledger-based balanc
 - 🛡️ Idempotency key support to prevent duplicate transactions
 - 🔒 MongoDB transactions for atomic operations
 - 🚫 JWT blacklist for token invalidation
-- 📧 Transaction email notifications
+- 📧 Transaction email notifications using Nodemailer and OAuth2
 - 🧩 Modular backend structure
 
 ---
@@ -155,7 +155,7 @@ Backend/
 - bcrypt
 - HTTP-only cookies
 
-### Email
+### Email & Notification
 - Nodemailer
 - OAuth2
 
